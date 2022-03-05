@@ -3,12 +3,14 @@
 //  Newer: querySelector, querySelectorAll
 //  Select the following single elements from the div.card
 
+// const nav = document.getElementById('mainNav')
+
 // A- finding across the entire DOM
-const header = null
-const logoTitle = null
+const header = 
+const logoTitle = document.getElementById
 const firstCard = null
 // B- finding within one particular element
-const imageFirstCard = null
+const imageFirstCard = document.querySelector
 const titleFirstCard = null
 const subtitleFirstCard = null
 const textFirstCard = null
